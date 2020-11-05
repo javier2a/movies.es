@@ -1,0 +1,32 @@
+/* --------------------------------Fonts */
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro Regular'), local('SourceSansPro-Regular'),
+       url('../fonts/source-sans-pro-v13-latin-ext_latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/source-sans-pro-v13-latin-ext_latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* END--------------------------------Fonts */
+
+/* --------------------Variables */
+:root{
+  /* Color */
+  --color-red:#E60E0E;
+  /* END Color */
+}
+/* END--------------------Variables */
+
+/* --------------------Layout */
+.grid-container{
+  display: grid;
+  grid-template-columns: ;
+}
+
+
+/* END--------------------Layout */
+
+/*--------------------Header */
+
+
+/* END--------------------Header */
